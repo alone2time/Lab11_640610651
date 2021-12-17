@@ -22,7 +22,7 @@ int main(){
 
     cout << "Number of data = "<<count<<endl;
     cout << setprecision(3);
-    cout << "Mean = "<<mean<<endl;
+    cout << "Mean = "<<mean<<endl; 
     cout << "Standard deviation = "<<sd;
     return 0;
 }
